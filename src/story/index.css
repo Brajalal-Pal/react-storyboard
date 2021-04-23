@@ -1,0 +1,31 @@
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+h1 {
+  color: black;
+  text-shadow: 2px 2px 4px #52c4cc;
+}
+
+.heading {
+  font-size: 40px;
+  color: rebeccapurple;
+}
+
+.author-comment {
+  padding: "20px";
+}
+
+.story {
+  border: 1px solid #ddd;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.error {
+  border: 1px solid #ddd;
+  padding: 30px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  background-color: rosybrown;
+  width: 100%;
+}
